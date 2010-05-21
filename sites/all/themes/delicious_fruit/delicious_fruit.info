@@ -1,0 +1,30 @@
+; $Id: delicious_fruit.info,v 1.1 2008/08/12 20:32:34 doncoryon Exp $
+name = Delicious Fruit
+description = Beautiful theme with greenery and grapes. Fully XHTML and CSS standards compliant with a pinkish and grean color scheme.
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+; REGIONS
+
+regions[left] = Left sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[login_box] = Login
+
+; FEATURES
+
+features[] = name
+features[] = slogan
+features[] = mission
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = search
+features[] = favicon
+; Information added by drupal.org packaging script on 2008-08-15
+version = "6.x-2.1"
+core = "6.x"
+project = "delicious_fruit"
+datestamp = "1218842406"
+

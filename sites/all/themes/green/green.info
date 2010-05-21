@@ -1,0 +1,12 @@
+name = Renaissance
+description = 2 column layout, Tableless, valid css and html.
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[print][] = print.css
+; Information added by drupal.org packaging script on 2008-09-04
+version = "6.x-1.0"
+core = "6.x"
+project = "green"
+datestamp = "1220544629"
+
