@@ -89,7 +89,7 @@
  *   $db_url = 'mysqli://username:password@localhost/databasename';
  *   $db_url = 'pgsql://username:password@localhost/databasename';
  */
-$db_url = 'mysqli://lala:lala@localhost/lala';
+$db_url = 'mysqli://e2thex:whalen@localhost/e2thex_lala';
 $db_prefix = '';
 
 /**
@@ -123,6 +123,7 @@ $update_free_access = FALSE;
  * for you.
  */
 # $base_url = 'http://www.example.com';  // NO trailing slash!
+ $base_url = 'http://dev.e2thex.org/lala';  // NO trailing slash!
 
 /**
  * PHP settings:
